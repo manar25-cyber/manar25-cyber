@@ -24,7 +24,6 @@ Passionate about cybersecurity, ethical hacking, network security, and digital f
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat\&logo=python\&logoColor=darkgreen)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=java\&logoColor=white)
 
 ### Cybersecurity Tools
@@ -32,8 +31,6 @@ Passionate about cybersecurity, ethical hacking, network security, and digital f
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat\&logo=wireshark\&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
 
 ### Development Tools
 
@@ -50,17 +47,7 @@ Passionate about cybersecurity, ethical hacking, network security, and digital f
 * Digital Forensics
 * Security Operations Center (SOC)
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manar25-cyber\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manar25-cyber\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manar25-cyber\&layout=compact\&theme=tokyonight)
-
----
+-
 
 ## 🎯 Goals
 
