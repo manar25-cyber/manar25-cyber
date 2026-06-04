@@ -42,7 +42,6 @@ Passionate about cybersecurity, ethical hacking, network security, and digital f
 * Digital Forensics
 * Security Operations Center (SOC)
 
--
 
 ## 🎯 Goals
 
