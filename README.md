@@ -32,12 +32,7 @@ Passionate about cybersecurity, ethical hacking, network security, and digital f
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat\&logo=wireshark\&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat)
 
-### Development Tools
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat\&logo=visual-studio-code\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-
----
 
 ## 📚 Currently Learning
 
