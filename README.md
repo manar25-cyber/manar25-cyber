@@ -49,13 +49,7 @@ Passionate about cybersecurity, ethical hacking, network security, and digital f
 * Learn advanced penetration testing techniques
 * Contribute to cybersecurity projects and open-source communities
 
----
 
-## 📫 Connect With Me
-
-* GitHub: https://github.com/manar25-cyber
-
----
 
 > “Security is not a product, but a process.”
 >
